@@ -1,0 +1,7 @@
+{
+  "name": "Web to APK",
+  "description": "Android WebView application template supporting local HTML assets and live website URLs, ready for GitHub repository and APK builds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
